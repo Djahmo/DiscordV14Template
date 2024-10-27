@@ -1,0 +1,8 @@
+{
+    "buyersIDs": [
+        "123456789123456789"
+    ],
+
+    "infoLogChannel": "1234567890",
+    "webhookDevLog" : "https://discord.com/api/webhooks/1234567890/ABCDEFGHIJKL"
+}
